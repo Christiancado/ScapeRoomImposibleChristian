@@ -1,11 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\OpenSecretDoor.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ElevatorUpDown.cs">
     <Files>
-      <File FileName="Assets\Scripts\ButtonElevator.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\ElevatorUpDown.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\MouseLook.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\OpenSecretDoor.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
